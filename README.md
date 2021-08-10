@@ -17,4 +17,4 @@ Each record in a FastQ file consists of four lines:
 
 In FASTQ files, quality scores are encoded into a compact form, which uses only 1 byte per quality value.
 
-![FASTQ] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FA-sample-of-the-FASTQ-file_fig2_309134977&psig=AOvVaw2D-zxSvpWDwhU_0_znf-Sv&ust=1628683335208000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMD-t7i0pvICFQAAAAAdAAAAABAD)
+![FASTQ] (https://www.researchgate.net/profile/Morteza-Hosseini-6/publication/309134977/figure/fig2/AS:417452136648711@1476539753452/A-sample-of-the-FASTQ-file.png)
