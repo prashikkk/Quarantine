@@ -1,3 +1,4 @@
 # Quarantine
-# File Formats used in Bioinformatics 
+## File Formats used in Bioinformatics 
 
+### FASTA
