@@ -9,9 +9,11 @@ FASTA format is a text-based format for representing either nucleotide sequences
 
 FASTQ format is a text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores. It is a text file that contains the sequence data from the clusters that pass filter on a flow cell.
 Each record in a FastQ file consists of four lines:
-a)Sequence identifier.
-b)Nucleotide sequence.
-c)Quality score identifier line (always a single “+” (plus) sign)
-d)Quality scores.
+
+1.Sequence identifier.
+2.Nucleotide sequence.
+3.Quality score identifier line (always a single “+” (plus) sign)
+4.Quality scores.
+
 In FASTQ files, quality scores are encoded into a compact form, which uses only 1 byte per quality value.
 
